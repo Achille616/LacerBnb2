@@ -11,6 +11,7 @@ body {
 nav ul a,
 nav .brand-logo {
   color: #B6174B;
+  margin-top: 5px;
 }
 
 nav .brand-logo {
@@ -100,12 +101,12 @@ p {
 }
 
 .registrazione-icon {
-  font-size: 7em; 
+  font-size: 7em;
   margin-top: 60px;
 }
 
 .registrazione-subtitle {
-  font-size: 1.3em; 
+  font-size: 1.3em;
   margin-top: 5%;
 }
 
@@ -114,12 +115,12 @@ p {
 }
 
 .ospita-icon {
-  font-size: 7em; 
+  font-size: 7em;
   margin-top: 60px;
 }
 
 .ospita-subtitle {
-  font-size: 1.3em; 
+  font-size: 1.3em;
   margin-top: 5%;
   line-height: 2em;
 }
