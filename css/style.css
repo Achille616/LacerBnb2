@@ -20,11 +20,6 @@ nav .brand-logo {
   font-family: 'Satisfy', cursive;
 }
 
-i .icon-block {
-  col s12 m4;
-  center blue-text text-light-blue darken-4;
-}
-
 nav .nav-wrapper {
     padding: 0px 50px;
 }
