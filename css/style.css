@@ -6,7 +6,9 @@
  * Made By MaterializeCSS.com
  */
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: pulpo-rust-75, serif;
+  font-weight: 400;
+  font-style: normal;
 }
 nav ul a,
 nav .brand-logo {
