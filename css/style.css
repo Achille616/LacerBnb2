@@ -41,6 +41,7 @@ p {
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
+  text-align: right;
 }
 
 .section-intro {
@@ -55,8 +56,9 @@ p {
 }
 
 .header-subtitle {
-  margin-top: 10%;
+  margin-top: 1%;
   font-size: 1.3em;
+  text-align: right;
 }
 
 @media only screen and (max-width : 992px) {
@@ -67,11 +69,6 @@ p {
   #index-banner .section {
     top: 10%;
     text-align: left;
-  }
-
-  #index-banner1 .section {
-    top: 10%;
-    text-align: right;
   }
 }
 
