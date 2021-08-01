@@ -66,6 +66,12 @@ p {
   }
   #index-banner .section {
     top: 10%;
+    text-align: left;
+  }
+
+  #index-banner1 .section {
+    top: 10%;
+    text-align: left;
   }
 }
 
